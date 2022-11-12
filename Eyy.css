@@ -1,0 +1,42 @@
+.wrapper {
+    height: 200px;
+    width: 400px;
+
+    position: fixed;
+    top:45%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.container{
+    color: rgb(0, 0, 0);
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:45px;
+}
+.btn2{
+    background-color:red;
+    border: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 2px;
+}
+.btn{
+    background-color:#4CAF50;
+    border: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 2px;
+}
